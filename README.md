@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I'm currently learning Javascript in a course of Front-End Dev, in CoderHouse.
 - 💞️ I’m looking forward to collaborating on the creation of webpages, applications and programs to help people in the health world.
 - 📫 These are my contact details:
-* linkedin.com/in/rodrigo-deganutti-330812223/
-* twitter.com/Rodega5
-* facebook.com/rodrigodeganutti/
-* instagram.com/rodridega/
+* www.linkedin.com/in/rodrigo-deganutti-330812223/
+* www.twitter.com/Rodega5
+* www.facebook.com/rodrigodeganutti/
+* www.instagram.com/rodridega/
